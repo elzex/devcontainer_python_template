@@ -1,5 +1,5 @@
 {
-	"name": "LaTeX",
+	"name": "Python",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
