@@ -1,0 +1,13 @@
+## python
+numpy
+matplotlib
+scipy
+numba
+tqdm
+
+## jupyter
+jupyterlab
+jupyterlab_vim
+lckr-jupyterlab-variableinspector
+
+pylint
